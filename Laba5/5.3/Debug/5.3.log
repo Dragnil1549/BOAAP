@@ -1,0 +1,26 @@
+﻿Сборка начата 15.10.2021 17:22:37.
+Уровень детализации журнала: Normal.     1>Проект "h:\Основы проги и алгоритмизации\ЛР5\5.3\5.3.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\5.3.tlog\unsuccessfulbuild".
+       ClCompile:
+         E:\VS\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt 5.3.cpp
+         5.3.cpp
+     1>h:\Основы проги и алгоритмизации\ЛР5\5.3\5.3.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+       Link:
+         E:\VS\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"H:\Основы проги и алгоритмизации\ЛР5\Debug\5.3.exe" /INCREMENTAL /ILK:"Debug\5.3.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"H:\Основы проги и алгоритмизации\ЛР5\Debug\5.3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\Основы проги и алгоритмизации\ЛР5\Debug\5.3.lib" /MACHINE:X86 Debug\5.3.obj
+         5.3.vcxproj -> H:\Основы проги и алгоритмизации\ЛР5\Debug\5.3.exe
+       FinalizeBuildStatus:
+         Файл "Debug\5.3.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\5.3.tlog\5.3.lastbuildstate".
+     1>Сборка проекта "h:\Основы проги и алгоритмизации\ЛР5\5.3\5.3.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "h:\Основы проги и алгоритмизации\ЛР5\5.3\5.3.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         h:\Основы проги и алгоритмизации\ЛР5\5.3\5.3.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:23.18

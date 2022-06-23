@@ -1,0 +1,32 @@
+﻿Сборка начата 15.10.2021 17:46:06.
+Уровень детализации журнала: Normal.     1>Проект "h:\Основы проги и алгоритмизации\ЛР5\5.5\5.5.vcxproj" в узле 2 (целевые объекты Build).
+     1>E:\VS\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (5.5.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+     1>InitializeBuildStatus:
+         Создание "Debug\5.4.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         E:\VS\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt 5.4.cpp
+         5.4.cpp
+     1>h:\Основы проги и алгоритмизации\ЛР5\5.5\5.4.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+       Link:
+         E:\VS\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"H:\Основы проги и алгоритмизации\ЛР5\Debug\5.4.exe" /INCREMENTAL /ILK:"Debug\5.4.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"H:\Основы проги и алгоритмизации\ЛР5\Debug\5.4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\Основы проги и алгоритмизации\ЛР5\Debug\5.4.lib" /MACHINE:X86 Debug\5.4.obj
+         5.5.vcxproj -> H:\Основы проги и алгоритмизации\ЛР5\Debug\5.4.exe
+       FinalizeBuildStatus:
+         Файл "Debug\5.4.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\5.4.tlog\5.4.lastbuildstate".
+     1>Сборка проекта "h:\Основы проги и алгоритмизации\ЛР5\5.5\5.5.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "h:\Основы проги и алгоритмизации\ЛР5\5.5\5.5.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект PrepareForBuild) -> 
+         E:\VS\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (5.5.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+
+
+       "h:\Основы проги и алгоритмизации\ЛР5\5.5\5.5.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         h:\Основы проги и алгоритмизации\ЛР5\5.5\5.4.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:33.26

@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Lba8.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  z1.cpp
+D:\Учёба\Основы проги и алгоритмизации(Белоед)\Лабы\Laba8\Laba9\Laba9\z1.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Laba9.vcxproj -> D:\Учёба\Основы проги и алгоритмизации(Белоед)\Лабы\Laba8\Laba9\Debug\z1.exe
